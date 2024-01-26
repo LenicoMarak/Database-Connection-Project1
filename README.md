@@ -6,9 +6,8 @@ Welcome to the User Input to MySQL Database project! This project allows you to 
 
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
-3. [Project Structure](#project-structure)
-4. [How to Run](#how-to-run)
-6. [Contributing](#contributing)
+3. [How to Run](#how-to-run)
+4. [Contributing](#contributing)
 
 ## Introduction
 
