@@ -13,7 +13,7 @@
    try{  
        con=(Connection)session.getAttribute("connection");
        Statement st=con.createStatement();
-       ResultSet rs=st.executeQuery("select* from Student;");
+       ResultSet rs=st.executeQuery("select * from Student;");
    %>  
    <table border="1">
       <tr>
